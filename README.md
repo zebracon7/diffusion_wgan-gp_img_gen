@@ -1,4 +1,4 @@
-# Комманда PuddleTech Кейс№ 2
+# Команда PuddleTech Кейс №2
 **Файл с весами model-88.pt необходимо скачать по [ссылке](https://drive.google.com/file/d/1AaOvAYpjl3-FsEQ2WD_CtHW74REYTVTZ/view?usp=sharing) с Google Drive и разместить в папку results**
 
 В данной работе реализованно 2 подхода к генерации ладоней: 
