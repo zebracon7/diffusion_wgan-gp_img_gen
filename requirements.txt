@@ -1,0 +1,8 @@
+torch
+torchvision
+opencv-python
+mediapipe
+numpy
+Pillow
+scipy
+denoising-diffusion-pytorch
