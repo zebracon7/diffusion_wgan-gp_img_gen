@@ -106,7 +106,7 @@ python main.py dirname 40
 ```
 В результате, в указанном каталоге создаются изображения.
 
-## Запуск генерации изображений из Google Colab (все работы проводились в нем)
+## Запуск генерации изображений из Google Colab
 1. Необходимо создать папку в Google Drive под названием Diffusion_Model. Данная папка должна состоять из папок:
  - results (в нее положить файл с [весами](https://drive.google.com/file/d/1AaOvAYpjl3-FsEQ2WD_CtHW74REYTVTZ/view?usp=sharing))
  - в папке results - должна быть папка generated 
